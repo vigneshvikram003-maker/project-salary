@@ -1,0 +1,2 @@
+# project-salary
+salary predition
